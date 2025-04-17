@@ -1,0 +1,9 @@
+C:\My\VB\ReadFromFile\obj\Debug\ReadFromFile.vbproj.AssemblyReference.cache
+C:\My\VB\ReadFromFile\obj\Debug\ReadFromFile.Form1.resources
+C:\My\VB\ReadFromFile\obj\Debug\ReadFromFile.vbproj.GenerateResource.cache
+C:\My\VB\ReadFromFile\obj\Debug\ReadFromFile.vbproj.CoreCompileInputs.cache
+C:\My\VB\ReadFromFile\bin\Debug\ReadFromFile.exe.config
+C:\My\VB\ReadFromFile\bin\Debug\ReadFromFile.exe
+C:\My\VB\ReadFromFile\bin\Debug\ReadFromFile.pdb
+C:\My\VB\ReadFromFile\obj\Debug\ReadFromFile.exe
+C:\My\VB\ReadFromFile\obj\Debug\ReadFromFile.pdb
